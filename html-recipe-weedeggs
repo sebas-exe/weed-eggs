@@ -1,0 +1,109 @@
+<html>
+    <div itemscope itemtype="https://schema.org/Recipe">
+    <span itemprop="name">Mom's World Famous Weed Eggs</span>
+    By <span itemprop="author">Sebastián Petete</span>,
+    <meta itemprop="datePublished" content="20023-05-08">May 6, 2023
+    <img itemprop="image" src="C:\Users\Usuario\OneDrive - correounivalle.edu.co\Documentos\Ciencia de Datos 2023-I\Curso SEO- Platzi\Images\huevoscanabicos.jpg" 
+         alt="Weed Eggs" />
+  
+    Posicionamiento para facebook:
+    <meta property="og:url"                content="http://www.weedrecipes.com/eggs-with-weed" />
+    <meta property="og:type"               content="article" />
+    <meta property="og:title"              content="Recipe cannabics eggs" />
+    <meta property="og:description"        content="How much do you want get high with eggs??" />
+    <meta property="og:image"              content="C:\Users\Usuario\OneDrive - correounivalle.edu.co\Documentos\Ciencia de Datos 2023-I\Curso SEO- Platzi\Images\huevoscanabicos.jpg" />    
+
+    Posicionamiento para twitter:
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@sciendistian_">
+    <meta name="twitter:title" content="Recipe cannabics eggs">
+    <meta name="twitter:description" content="How much do you want get high with eggs??">
+    <meta name="twitter:image" content="C:\Users\Usuario\OneDrive - correounivalle.edu.co\Documentos\Ciencia de Datos 2023-I\Curso SEO- Platzi\Images\huevoscanabicos.jpg">
+
+
+
+    <span itemprop="description">This classic green weed eggs recipe comes
+    from my mom -- the butter add a nice texture and flavor to the eggs.</span>
+
+    Prep Time: <meta itemprop="prepTime" content="PT15M">15 minutes
+    Cook time: <meta itemprop="cookTime" content="PT1H">20 minutes
+    Yield: <span itemprop="recipeYield">1 ounce</span>
+    Tags: <link itemprop="suitableForDiet" href="https://schema.org/LowFatDiet" />Low fat
+
+    <div itemprop="nutrition"
+    itemscope itemtype="https://schema.org/NutritionInformation">
+    Nutrition facts:
+    <span itemprop="calories">240 calories</span>,
+    <span itemprop="fatContent">9 grams fat</span>
+  </div>
+
+  Ingredients:
+   <span itemprop="recipeIngredient">4 or 5 grams of weed</span>
+   <span itemprop="recipeIngredient">4 egg</span>
+   <span itemprop="recipeIngredient">3/4 butter</span>
+   <span itemprop="recipeIngredient">salt and pepper to taste </span>
+  ...
+
+  Instructions:
+  <span itemprop="recipeInstructions">
+  Preheat the frying pan to 350 degrees. Mix the weed with the butter in a bowl. When it starts to release the 
+  characteristic aroma, add the eggs and stir . Pour the mixture into a loaf pan and bake for one 10 minutes.
+  </span>
+
+  140 comments:
+  <div itemprop="interactionStatistic" itemscope itemtype="https://schema.org/InteractionCounter">
+    <meta itemprop="interactionType" content="https://schema.org/CommentAction" />
+    <meta itemprop="userInteractionCount" content="140" />
+  </div>
+  From Sebastián Petete, May 5 2023 thank you, great recipe!
+  Get high with this eggs!s
+  ...
+</div>
+  
+<style>
+    span[itemprop="name"] {
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    span[itemprop="author"] {
+        font-style: italic;
+    }
+    img[itemprop="image"] {
+        float: right;
+        margin: 0 0 1em 1em;
+    }
+    span[itemprop="description"] {
+        font-style: italic;
+    }
+    span[itemprop="recipeYield"] {
+        font-weight: bold;
+    }
+    span[itemprop="calories"] {
+        font-weight: bold;
+    }
+    span[itemprop="fatContent"] {
+        font-weight: bold;
+    }
+    span[itemprop="recipeIngredient"] {
+        display: block;
+        margin: 0.5em 0;
+    }
+    span[itemprop="recipeInstructions"] {
+        display: block;
+        margin: 0.5em 0;
+    }
+    div[itemprop="interactionStatistic"] {
+        font-style: italic;
+    }
+    div[itemprop="interactionStatistic"] meta[itemprop="interactionType"] {
+        display: none;
+    }
+    div[itemprop="interactionStatistic"] meta[itemprop="userInteractionCount"] {
+        font-weight: bold;
+    }
+</style>
+
+
+
+
+</html>
